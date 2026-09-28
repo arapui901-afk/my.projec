@@ -1,0 +1,163 @@
+
+
+
+<!DOCTYPE html>
+<html lang="pl-PL">
+
+<head>
+    <meta charset="utf-8">
+    <title>Arseni 2-f</title>
+</head>
+
+<body>
+
+<p align="right">
+    <font color="red" size="7" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="6" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="5" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="4" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="2" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="1" face="Arial">Arseni</font>
+</p><br>
+
+<h1>Palcheuski</h1><br>
+<h2>Palcheuski</h2><br>
+<h3>Palcheuski</h3><br>
+<h4>Palcheuski</h4><br>
+<h5>Palcheuski</h5><br>
+<h6>Palcheuski</h6><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<p align="right">
+    <font color="red" size="3" face="Arial">Arseni</font>
+</p><br>
+
+<!-- emotikony -->
+
+<p>
+    <font color="red" size="7" face="Arial">
+        :) — uśmiech i radość
+    </font>
+</p>
+
+<p>
+    <font color="blue" size="6" face="Courier New">
+        :D — pewność siebie i dobry humor
+    </font>
+</p>
+
+<p>
+    <font color="green" size="5" face="Times New Roman">
+        XD — śmiech i rozbawienie
+    </font>
+</p>
+
+<p>
+    <font color="purple" size="4" face="Verdana">
+        :( — smutek
+    </font>
+</p>
+
+<p>
+    <font color="orange" size="3" face="Arial">
+        >:( — złość
+    </font>
+</p>
+
+<p>
+    <font color="pink" size="2" face="Courier New">
+        :* — miłość i sympatia
+    </font>
+</p>
+
+<br><br>
+<hr>
+
+<h2>Drugie zadanie</h2>
+
+<div style="border: 1px solid black; width: 85%; height: 435px; margin: auto; padding: 10px;">
+
+    <p style="font-size: 12px; margin-top: 0;">
+        <b>Adres:</b> 80-831,
+        <i>Gdansk</i>,
+        <u>Dluga</u>,
+        <s>20, 21</s>
+    </p>
+
+    <p align="right">
+        <font color="yellow" size="7" face="Courier New">
+            Ulubiony aktor: Brzerzew Eszszeszcikewicz.
+        </font>
+    </p>
+
+    <br><br>
+
+    <p align="center">
+        <font color="gray" size="4" face="Arial">
+            Ulubiony zespół muzyczny:
+        </font>
+
+        <font color="red" size="5" face="Times New Roman">
+            bolgarija.
+        </font>
+    </p>
+
+    <br>
+
+    <p align="center">
+        <font color="green" size="3" face="Verdana">
+            Data urodzenia: 12 02 2001.
+        </font>
+    </p>
+
+    <br><br>
+
+    <font size="5" face="Times New Roman">
+        Arseni Palcheuski
+    </font>
+
+</div>
+
+</body>
+</html>
+```
+
+ Teraz na stronie będzie **Arseni Palcheuski** zamiast poprzednich danych.
